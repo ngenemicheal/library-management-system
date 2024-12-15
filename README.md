@@ -9,7 +9,6 @@ A simple library management system built with Node.js, Express, and MongoDB. The
 ## Features
 
 -   Add new books to the library
--   Retrieve all books or filter by availability/borrowed status
 -   Borrow and return books
 -   View book details by ID
 
